@@ -1,1 +1,1 @@
-Version 1.0.0 - Inicial
+Version 1.0.1 - Pequeñas mejoras
